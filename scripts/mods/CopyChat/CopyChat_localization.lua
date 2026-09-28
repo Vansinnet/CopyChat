@@ -5,14 +5,14 @@ return {
         en = "Copy Chat",
     },
     mod_description = {
-        en = "Copies recent chat messages to clipboard via keybind.",
+        en = "Copies recent chat messages and DMF errors to clipboard via keybind.",
     },
 
     copy_keybind = {
         en = "Copy Chat Keybind",
     },
     copy_keybind_tooltip = {
-        en = "Press to copy recent chat to clipboard. Filters by time window and max message count.",
+        en = "Press to copy recent chat to clipboard, including DMF errors shown before the chat is available. Filters by time window and max message count.",
     },
 
     copy_seconds = {

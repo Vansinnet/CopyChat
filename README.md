@@ -1,6 +1,6 @@
 # CopyChat
 
-A Darktide Mod Framework mod that copies recent chat and system messages to the clipboard, with configurable time and message limits and optional player-name anonymization.
+A Darktide Mod Framework mod that copies recent chat and system messages to the clipboard, including DMF errors that are shown before the chat is available, with configurable time and message limits and optional player-name anonymization.
 
 ## Installation
 
