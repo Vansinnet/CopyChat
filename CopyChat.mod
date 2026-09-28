@@ -1,5 +1,5 @@
 return {
-    version = "1.0.1",
+    version = "1.1.0",
     run = function()
         fassert(rawget(_G, "new_mod"), "`CopyChat` encountered an error loading the Darktide Mod Framework.")
 
