@@ -1,3 +1,4 @@
+---@class CopyChatMod: DMFMod
 local mod = get_mod("CopyChat")
 
 local Managers = Managers
