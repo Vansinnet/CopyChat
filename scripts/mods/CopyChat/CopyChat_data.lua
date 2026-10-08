@@ -1,3 +1,4 @@
+---@class CopyChatMod
 local mod = get_mod("CopyChat")
 
 return {
